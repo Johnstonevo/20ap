@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.lazyf1" version="2021.1.8" name="[COLOR=FFFFFFFF]Lazy[/COLOR] [COLOR=FFFF0000]F1[/COLOR]" provider-name="-=Vd=-">
+<addon id="plugin.video.lazyf1" version="2021.2" name="[COLOR=FFFFFFFF]Lazy[/COLOR] [COLOR=FFFF0000]F1[/COLOR]" provider-name="-=Vd=-">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.lazyf1.images" optional="false"/>
